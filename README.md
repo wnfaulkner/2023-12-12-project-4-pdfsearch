@@ -40,18 +40,20 @@ Front-End: React with Milligram CSS
 - AAU, I want to be able to import PDFs and have my uploaded PDFs be associated with my user such that other users cannot access them.
 - AAU, I want the ability to view a list of all of my uploaded PDFs.
 - AAU, I want the ability to open/read/view individual PDFs.
+- AAU, I want the ability to search the full text content and metadata of my PDFs simultaneously.
+
+
+Stretch Goals include implementing further user stories, such as:
+- AAU, I want the ability to batch import PDFs
 - AAU, I want to be able to create, view, edit, and delete tags.
 - AAU, I want the ability to associate tags with documents.
 - AAU, I want the ability to filter my list of PDFs to those associated with a particular tag.
 - AAU, I want the ability to search both full and filtered lists of my PDFs for exact text matches in both PDF metadata and text content.
-
-Stretch Goals include implementing further user stories, such as:
-- AAU, I want the ability to batch import PDFs
-- AAU, I want the ability to nest my tags within a hierarchy with ‘parent’ and ‘child’ tags
-- AAU, I want the ability to tag selected text within documents
+- AAU, I want the ability to nest my tags within a hierarchy with ‘parent’ and ‘child’ tags.
+- AAU, I want the ability to tag selected text within documents.
 - AAU, I want the search results prioritized, with higher priority going to documents where the search term appears in the metadata and documents where the search term appears more frequently in the document text.
 - AAU, I want my search results to include a ‘search snippet,’ i.e. preview(s) of the text surrounding the search term within the doc.
-- AAU, I want my search results to live update with each new character typed into the search query
+- AAU, I want my search results to live update with each new character typed into the search query.
 - AAU, I want results to appear snappily (< 0.25 sec) even when I am searching 500+ PDFs.
 
 
