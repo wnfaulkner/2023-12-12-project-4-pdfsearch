@@ -1,20 +1,16 @@
-# ![Banner Photo](./organize.jpg)
+# ![Banner Photo](./organize_cropped.jpg)
 
 Author: [William Faulkner](https://github.com/wnfaulkner)
 
-[Click Here to Check out the App Now](https://fitforecast-dc33e66f392f.herokuapp.com/)
-
 ---
-### **Project Idea and Description**
+## **Project Idea and Description**
 
 PDF Search helps users store, organize, and search their pdf documents.
 
-
-[Click Here to Check out the App Now]()
-
+[Click Here to Check out the App Now](https://www.duckduckgo.com/)
 
 ---
-### **Tech Stack**
+## **Tech Stack**
 
 Database: MongoDB Atlas
 
@@ -27,12 +23,22 @@ Back-End: Django
 Front-End: React with Milligram CSS
 
 ---
-### **Wireframes**
+## **Wireframes**
+
+![](./public/images/wireframes/1-LandingPage.PNG)
+
+![](./public/images/wireframes/2-UserHome.PNG)
+
+![](./public/images/wireframes/3-Import.PNG)
+
+![](./public/images/wireframes/4-SearchNoQuery.PNG)
+
+![](./public/images/wireframes/5-SearchWithQuery.PNG)
 
 
 
 ---
-### **User Stories**
+## **User Stories**
 
 - AAU, I want the ability to sign-up and create a new profile.
 - AAU, I want the ability to log-in with an email and password.
@@ -58,7 +64,7 @@ Stretch Goals include implementing further user stories, such as:
 
 
 ---
-### **Proposed Development Timeline**
+## **Proposed Development Timeline**
 
 Dec 13
 - Create: 
@@ -86,12 +92,12 @@ Dec 15
   - Create React components for search interface
 
 Dec 18
-- Functionality: user-defined tags CRUD, association of tags with user PDFs, and search filtering
-  - Create Tag model
-  - Create React components for tags CRUD, association of tags with PDFs, and search filtering
-
-Dec 19
+- Finish up - Functionality: doc search
 - Implement CSS framework & styling
 
+Dec 19
+- Finish up - Implement CSS framework & styling
+- Cushion/Implement Stretch Goals
+
 Dec 20
-- Cushion
+- Cushion/Implement Stretch Goals
