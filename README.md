@@ -10,9 +10,9 @@ PDF Search helps users store, organize, and search their pdf documents.
 [Click Here to Check out the App Now](https://www.duckduckgo.com/)
 
 ---
-## **Tech Stack**
+## **Technology Stack**
 
-Database: MongoDB Atlas
+Database: MongoDB
 
 Back-End: Django
 - Communicate with database: PyMongo
@@ -21,21 +21,6 @@ Back-End: Django
 - Doc Searching: Apache Solr
 
 Front-End: React with Milligram CSS
-
----
-## **Wireframes**
-
-![](./public/images/wireframes/1-LandingPage.PNG)
-
-![](./public/images/wireframes/2-UserHome.PNG)
-
-![](./public/images/wireframes/3-Import.PNG)
-
-![](./public/images/wireframes/4-SearchNoQuery.PNG)
-
-![](./public/images/wireframes/5-SearchWithQuery.PNG)
-
-
 
 ---
 ## **User Stories**
@@ -61,6 +46,29 @@ Stretch Goals include implementing further user stories, such as:
 - AAU, I want my search results to include a ‘search snippet,’ i.e. preview(s) of the text surrounding the search term within the doc.
 - AAU, I want my search results to live update with each new character typed into the search query.
 - AAU, I want results to appear snappily (< 0.25 sec) even when I am searching 500+ PDFs.
+
+---
+## **ERD**
+
+<img src="./public/images/ERD.png" alt="ERD" width="350"/>
+
+---
+## **Routing Chart**
+
+
+
+---
+## **Wireframes**
+
+![Landing Page Wireframe](./public/images/wireframes/1-LandingPage.PNG)
+
+![User Home Wireframe](./public/images/wireframes/2-UserHome.PNG)
+
+![Import/Index Wireframe](./public/images/wireframes/3-Import.PNG)
+
+![Search Wireframe (no query)](./public/images/wireframes/4-SearchNoQuery.PNG)
+
+![Search Wireframe (with query)](./public/images/wireframes/5-SearchWithQuery.PNG)
 
 
 ---
