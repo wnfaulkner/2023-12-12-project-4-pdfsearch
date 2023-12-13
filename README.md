@@ -36,7 +36,7 @@ Front-End: React with Milligram CSS
 
 Stretch Goals include implementing further user stories, such as:
 - AAU, I want the ability to batch import PDFs
-- AAU, I want to be able to create, view, edit, and delete tags.
+- AAU, I want to be able to create, view, edit, and delete tags (including metadata tags like 'author').
 - AAU, I want the ability to associate tags with documents.
 - AAU, I want the ability to filter my list of PDFs to those associated with a particular tag.
 - AAU, I want the ability to search both full and filtered lists of my PDFs for exact text matches in both PDF metadata and text content.
@@ -55,7 +55,7 @@ Stretch Goals include implementing further user stories, such as:
 ---
 ## **Routing Chart**
 
-
+<img src="./public/images/RESTful Routing Chart.png" alt="RESTful Routing Chart" width="700"/>
 
 ---
 ## **Wireframes**
